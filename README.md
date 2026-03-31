@@ -14,10 +14,12 @@ The files and content archived in this repository are the property of the origin
 
 Copyright © Dmitry Grinberg. All rights reserved.
 
-This repository does not claim any ownership over the archived materials. The copyright and all intellectual property rights remain exclusively with the original author.
+This repository does not claim any ownership or rights over the archived content. All copyright and intellectual property rights remain exclusively with the original author.
 
-The content is provided "as is" without any warranties or guarantees of any kind, express or implied. The maintainer of this repository makes no representations or warranties regarding the accuracy, completeness, reliability, or suitability of the materials. The maintainer assumes no responsibility or liability for any errors, omissions, or issues arising from the use of these files.
+The maintainer has added certain supplementary files necessary to ensure the proper structure and functionality of the repository on GitHub. These files contain no substantive content from the original project.
 
-Use of the materials in this repository is subject to the terms, conditions, and licensing rules set by the original author. It is the user's responsibility to ensure compliance with any applicable copyrights, licenses, or usage restrictions imposed by the original rights holder.
+The archived materials are provided "as is" without any warranties, express or implied, including but not limited to warranties of accuracy, completeness, or fitness for a particular purpose. The maintainer of this repository disclaims all liability for any damages or issues arising from the use or reliance on these materials.
 
-If you are the original author and wish to have this repository removed or modified, please contact me.
+Any use of the original content is subject to the terms, conditions, and licensing rules established by the original author. Users are solely responsible for ensuring compliance with all applicable copyright laws and restrictions.
+
+If you are the copyright holder and wish for this repository to be removed or modified, please contact the maintainer.
